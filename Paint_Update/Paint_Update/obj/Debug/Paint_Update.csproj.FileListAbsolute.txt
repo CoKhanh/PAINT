@@ -1,0 +1,15 @@
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\bin\Debug\Paint_Update.exe.config
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\bin\Debug\Paint_Update.exe
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\bin\Debug\Paint_Update.pdb
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\obj\Debug\Paint_Update.csprojAssemblyReference.cache
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\obj\Debug\Paint_Update.Form1.resources
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\obj\Debug\Paint_Update.Properties.Resources.resources
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\obj\Debug\Paint_Update.csproj.GenerateResource.cache
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\obj\Debug\Paint_Update.csproj.CoreCompileInputs.cache
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\obj\Debug\Paint_Update.exe
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\obj\Debug\Paint_Update.pdb
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\obj\Debug\Paint_Update.Form2.resources
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\bin\Debug\Paint_Update.exe.manifest
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\bin\Debug\Paint_Update.application
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\obj\Debug\Paint_Update.exe.manifest
+C:\Users\DuongCoKhanh\Desktop\Paint_Update\Paint_Update\obj\Debug\Paint_Update.application
